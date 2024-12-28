@@ -1,0 +1,7 @@
+{
+    "bot_token": "8148356650:AAErEi4XmAY214IJ660h5A2RZm9f5sw-vJ8",
+    "webhook_url": "bot-asep.onrender.com",
+    "allowed_updates": ["message", "edited_message", "callback_query"],
+    "log_level": "INFO"
+  }
+  
